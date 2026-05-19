@@ -41,15 +41,6 @@ A graph-first cloud security architecture designed to autonomously hunt for mult
 
 ---
 
-### 📖 Featured Write-up
-
-[![Medium Banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GGq88hiB7BlB_FM5v0Enpw.png)](https://medium.com/@ojasveersinghsaini/aws-pentesting-conquering-the-cloudgoat-beanstalk-secrets-challenge-b1f9ec880813)
-
-**[AWS Pentesting: Conquering the CloudGoat Beanstalk Secrets Challenge](https://medium.com/@ojasveersinghsaini/aws-pentesting-conquering-the-cloudgoat-beanstalk-secrets-challenge-b1f9ec880813)**
-A deep dive into identifying, mapping, and exploiting AWS misconfigurations within a simulated real-world environment.
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
